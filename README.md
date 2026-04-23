@@ -1,5 +1,12 @@
 # Instagram Follow Analyzer 🧑‍💻📱
 
+![Python](https://img.shields.io/badge/python-3.9%2B-yellowgreen)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-blueviolet)
+![Regex](https://img.shields.io/badge/Search-Regex-informational)
+![Export](https://img.shields.io/badge/Export-TXT%20%7C%20CSV-orange)
+![Threading](https://img.shields.io/badge/Performance-Multithreaded-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 A professional **Python Tkinter GUI tool** that helps you analyze your Instagram followers data.
 
 It allows you to:
